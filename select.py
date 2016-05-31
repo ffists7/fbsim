@@ -106,7 +106,6 @@ class select:
         else:
             self.index = new_index
 
-        print self.index
 
 
     def drawCharacterBoxes(self):
